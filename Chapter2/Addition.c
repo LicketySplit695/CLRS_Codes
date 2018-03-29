@@ -38,7 +38,7 @@ int main()
 	C = Addition(A, B, length);
 
 	for(i = 0; i<length + 1; i++)
-		printf("%d", *(C+i));
+		printf("%d ", *(C+i));
 
 	getchar();
 	return 0;
