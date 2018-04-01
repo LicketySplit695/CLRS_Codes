@@ -11,6 +11,7 @@
 //				pos = j
 //		if(pos > 0)
 //			swap(A[i], A[pos])
+//	return A
 
 
 #include<stdio.h>
